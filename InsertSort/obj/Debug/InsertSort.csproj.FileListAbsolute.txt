@@ -1,0 +1,6 @@
+E:\HOC_KY_6\CongNgheWeb\BaiThucHanh\Layout\InsertSort\InsertSort\bin\Debug\InsertSort.exe.config
+E:\HOC_KY_6\CongNghePhanMem\BaiTap\Insert_sort\InsertSort\InsertSort\bin\Debug\InsertSort.exe.config
+E:\HOC_KY_6\CongNghePhanMem\BaiTap\Insert_sort\InsertSort\InsertSort\bin\Debug\InsertSort.exe
+E:\HOC_KY_6\CongNghePhanMem\BaiTap\Insert_sort\InsertSort\InsertSort\bin\Debug\InsertSort.pdb
+E:\HOC_KY_6\CongNghePhanMem\BaiTap\Insert_sort\InsertSort\InsertSort\obj\Debug\InsertSort.exe
+E:\HOC_KY_6\CongNghePhanMem\BaiTap\Insert_sort\InsertSort\InsertSort\obj\Debug\InsertSort.pdb
